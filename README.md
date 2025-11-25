@@ -1,4 +1,4 @@
-# MolProt-Affinity-Drug-Discovery-Predictive-Modeling-Pipeline 
+# MolProt-Affinity-Drug-Discovery-Predictive-Modelling-Pipeline 
 
 End-to-end predictive modeling workflow in Python for small molecule–protein binding affinity. Pulls real ChEMBL bioactivity data, featurizes molecules and proteins, trains predictive models (Random Forest, XGBoost, and Deep Learning), and offers basic interpretability with inline plots.
 
